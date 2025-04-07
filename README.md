@@ -47,7 +47,8 @@ Estan en el documento adjunto.
 
     ***tener configurado un dispositivo emulador o un dispositivo físico conectado.
 4. **Estructura del Proyecto**
-  ```lib/
+  ```bash
+  lib/
   ├── app
   │   ├── data
   │   │   └── services
