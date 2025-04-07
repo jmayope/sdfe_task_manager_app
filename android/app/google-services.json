@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704742510360",
+    "project_id": "sdfedb-1be99",
+    "storage_bucket": "sdfedb-1be99.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704742510360:android:7491af24b2871ab663586d",
+        "android_client_info": {
+          "package_name": "com.jmayope.apps.sdfe_task_manager_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDopqgsOmt8xzAt4sGIRRrOijF38j-Kap0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
